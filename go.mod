@@ -1,4 +1,4 @@
-module github.com/MauGaspary/coinsGo.git
+module github.com/MauGaspary/goapi.git
 
 go 1.23.2
 
